@@ -1,0 +1,151 @@
+---
+title: "Dirección de la Producción y Operaciones (MBA 2020-2021)"
+author: "Profesor José Rafael Caro Barrera"
+output: rmdformats::readthedown
+css: custom.css
+---
+
+## Contacto y consultas/tutorías
+
+* #### Profesor: José Lumbreras Casana
+
+**Email:** xxxx@xxxx.com
+
+* #### Profesor: José Rafael Caro Barrera
+
+**Despacho:** Dpto. de Estadística, Econometría e Investigación Operativa. Edificio Albert Einstein, 2ª planta. Campus Universitario de Rabanales
+
+**Email:** jrcaro@uco.es
+
+Disponible siempre en el correo electrónico y contesto con la máxima rapidez que puedo. Las horas de tutorías son:
+
+#### Miércoles de 11:00-12:30
+#### Jueves de 09:00-10:00
+
+O previa cita a cualquier otro día y hora. 
+
+### Forum del Curso
+
+Aparte de resolver cualquier tipo de duda tanto en clase como por correo, puede ser que alguna de las dudas sea de interés general. Para preguntas de este tipo, como aclaraciones del curso o preguntas conceptuales, suelen funcionar bien y ser de utilidad los foros de discusión, ya que además promueve la participación activa de los estudiantes, por lo que se invita a utilizar el [foro de discusión de cada bloque](https://moodle.uco.es/m2021/course/view.php?id=3562).
+
+
+## Información y Fechas del Curso
+
+**Lugar:** Sistema de docencia On-line Plataforma Cisco Webex de la Universidad de Córdoba. [Enlace](https//ucordoba.webex.com/meet/master.mba)
+
+* Se ha organizado el curso en los siguientes módulos semanales.
+
+```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl <- "  ### Calendario de Fechas
+| Semana I       | Lunes, 22 febrero        | 18:00-20:00  |
+|---------------|:-------------:|------:|
+| | Miércoles, 24 febrero        | 16:00-18:00  |
+| **Semana II**       | **Lunes, 01 marzo**        | **festivo**  |
+| | Miércoles, 03 marzo        | 16:00-18:00  |
+| **Semana III**       | **Lunes, 08 marzo**        | **18:00-20:00**  |
+| | Miércoles, 10 marzo        | 16:00-18:00  |
+| **Semana IV**       | **Lunes, 15 marzo**        | **18:00-20:00**  |
+| | Miércoles, 17 marzo        | 16:00-18:00  |
+| **Semana V**       | **Lunes, 22 marzo**        | **18:00-20:00**  |
+| | Miércoles, 24 marzo        | 18:00-20:00  |
+| **Semana VI**       | **Lunes, 05 abril**        | **18:00-20:00**  |
+| | Miércoles, 07 abril        | 18:00-20:00  |
+| **Semana VII**       | **Lunes, 12 abril**        | **18:00-20:00**  |
+| | Miércoles, 14 abril        | 18:00-20:00  |
+| **Examen** |  **Por decidir**        |  |
+"
+cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
+```
+
+
+### Objetivos
+
+El curso se plantea como una introducción a la dirección de la producción y operaciones de una forma práctica mediante el uso del software más idóneo.
+
+Al finalizar, se pretende que el estudiante sea capaz de:
+
+* Conocer el papel que juega la producción dentro de la empresa.
+
+* Planificar sistemas de producción empresarial.
+
+* Conocer el comportamiento de las unidades económicas de producción.
+
+* Desarrollar habilidades para el manejo de las variables económicas propias de un entorno empresarial productivo.
+
+* Resolver problemas tanto en materia de gestión y planificación organizativa.
+
+* Desarrollar la capacidad para resolver cuestiones relacionadas con la dirección de operaciones.
+
+* Ser capaz de desarrollar una visión de la empresa multilateral, pero al mismo tiempo maximizar un objetivo común: producir con eficiencia.
+
+### Material y Libro de Texto
+
+Aunque no hay un libro de texto específico para este curso, en la guía docente se recomienda una bibliografía básica con objeto de apoyo; no obstante, se trabajará con material disponible en la plataforma y con recursos de libre acceso.
+
+## Organización de la Asignatura
+
+La asignatura está organizadas en los siguientes temas:
+
+* #### Tema I: Introducción a la producción y dirección de operaciones
+
+En este primer tema introduciremos los conceptos de producción y dirección de las operaciones de una empresa y cuál es el objetivo y la misión de ésta última.
+
+* #### Tema II:  Decisiones estratégicas relacionadas con el área funcional de la producción
+
+En el segundo tema plantearemos el marco conceptual sobre el que se asienta la propuesta de análisis para diagnosticar la viabilidad estratégica de las operaciones en las organizaciones desde el punto de vista de la producción.
+
+* #### Tema III: Gestión de Calidad; Normativa y Sistemas de Información
+
+Además de ser un elemento crítico en las operaciones, la calidad afecta, por ejemplo, a la reputación de la empresa, a la responsabilidad sobre el producto y tiene implicaciones a nivel global, pues una empresa no puede competir fuera de nuestras fronteras sin unos estándares internacionales. En este tema veremos las implicaciones que conllevan someterse a estos estándares y la normativa que los rigen. 
+
+* #### Tema IV: Previsión de la demanda
+
+La previsión de la demanda permite controlar las situaciones que producen desvíos, identificar fácilmente las tendencias en los datos y resolver problemas a la hora de medir el impacto de estímulos externos en la línea de demanda.
+
+* #### Tema V: Planificación de la producción
+
+En el tema 5 veremos que con la planificación, las empresas pueden comenzar la producción de nuevos productos de forma lógica y ordenada. También, gracias a esta planificación se puede calcular cuando se pueden hacer pedidos de materiales y la programación del transporte de los productos mediante el establecimiento de un plan de trabajo dependiendo de la cantidad de pedidos o de las ventas esperadas.
+
+* #### Tema VI: MRP
+
+Para la planificación y control del proceso de producción existen los MRP (Material Requirements Planning), herramientas que permiten realizar una planificación de los materiales necesarios mediante las cuales se puede aumentar la eficiencia de la empresa, abaratar costes y tomar decisiones que ayuden a obtener mejores resultados.
+
+* #### Tema VII: Control de inventarios y Gestión de operaciones
+
+La supervisión y control de las existencias minimiza el coste total de inventario. Este coste, a menudo no se le da la importancia que merece y se suele descuidar. En este tema veremos algunos conceptos importantes a tener en cuenta para controlar y gestionar este tipo de operaciones de control de existencias e inventarios.
+
+
+## Actividades y Tests de Autoevaluación
+
+Al finalizar cada tema o parte y dependiendo de la materia que se haya visto, habrá un _Test de Autoevaluación_ o _Actividad Práctica_ , a modo de ir conformando la nota para la evaluación continua. Normalmente se realizará en la hora de clase; si es un _test de autoevaluación_ se abrirá el test un día a una hora determinada avisando con el tiempo suficiente. Si es una actividad práctica, se abrirá una tarea para que se pueda subir el archivo con los resultados, con un periodo de gracia posterior a la finalización de la clase.
+
+## Evaluación
+
+La nota estará compuesta por la media de todas las actividades realizadas y entregadas durante el curso.
+ 
+## Código de Conducta
+
+### Participación y Asistencia
+
+No se exige la asistencia de forma obligatoria, sin embargo, se valorará positivamente que el alumno participe de forma activa en clase y permanezca concentrado y atento hasta que hayan terminado las explicaciones, actividades y asignaciones.
+
+
+### Diversidad e Inclusión
+
+El objetivo es que todo el participante se sienta cómodo durante el desarrollo de las clases. Si hay alguna forma de hacer que el curso sea más acogedor, por favor, no dudéis en preguntar.
+
+En particular, si se tiene alguna discapacidad, se facilitará la accesibilidad a la clase.
+
+### Trampas y Plagio.
+
+El plagio, copia, proposición deshonesta de trampa o cualquier tipo de engaño de esta índole no está permitido. Cualquier indicio de esta situación otorgará una calificación de 0 en la tarea y una penalización en la calificación general.
+
+### <sup>*</sup>_Cambios de Última Hora_
+
+_Es posible que el esquema y plan del curso visto anteriormente pueda sufrir modificaciones y readaptaciones en función del grado de avance de la materia._
+
+---
+
+Organizado por:
+
+![](uco.png){ width=15% }![](camara.jpg){ width=20% }
